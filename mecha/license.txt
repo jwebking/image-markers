@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mecha draft (Сourse project)
+* source:	https://sketchfab.com/3d-models/mecha-draft-ourse-project-39e1ed4cb77c4210b78e96126a2c4fd5
+* author:	ksengl.3d (https://sketchfab.com/ksengl.3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mecha draft (Сourse project)" (https://sketchfab.com/3d-models/mecha-draft-ourse-project-39e1ed4cb77c4210b78e96126a2c4fd5) by ksengl.3d (https://sketchfab.com/ksengl.3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
